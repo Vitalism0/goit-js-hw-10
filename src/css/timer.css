@@ -13,4 +13,6 @@
 }
 #datetime-picker {
   border-radius: none;
+  height: 30px;
+  font-size: 16px;
 }
